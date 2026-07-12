@@ -1,6 +1,6 @@
 {
-  "apiBaseUrl": "https://approximately-glasses-root-oclc.trycloudflare.com",
-  "supabaseUrl": "https://took-belts-pursue-pens.trycloudflare.com",
-  "updatedAt": 0,
-  "note": "URL atual dos tuneis Cloudflare. Atualizado automaticamente pelo Dell."
+  "apiBaseUrl": "https://completion-marine-excitement-onto.trycloudflare.com",
+  "supabaseUrl": "https://completion-marine-excitement-onto.trycloudflare.com",
+  "updatedAt": 1783873196000,
+  "note": "URL atual do tunel Cloudflare (proxy junta Supabase + API). Atualizado pelo Dell."
 }
