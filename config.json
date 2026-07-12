@@ -1,6 +1,6 @@
 {
   "apiBaseUrl": "https://completion-marine-excitement-onto.trycloudflare.com",
   "supabaseUrl": "https://completion-marine-excitement-onto.trycloudflare.com",
-  "updatedAt": 1783873196000,
-  "note": "URL atual do tunel Cloudflare (proxy junta Supabase + API). Atualizado pelo Dell."
+  "updatedAt": 1783873570000,
+  "note": "URL atual do tunel (proxy junta Supabase + API)."
 }
